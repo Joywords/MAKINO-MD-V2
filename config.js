@@ -34,12 +34,12 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //
 global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
-global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
+global.Owner = ["joywrld"];
+global.OwnerNumber = ["+263716549848"];
+global.ownertag = ["+263716549848"]; 
+global.OwnerName =  "joy_wrld";
+global.BotName = "joy_wrld-md-v2";
+global.packname = "joywrld";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
@@ -48,7 +48,7 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //
 //global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 //
-global.sessionName = "session";                          //Do not change.
+global.sessionName = "{"noiseKey":{"private":{"type":"Buffer","data":"qFrDP04r2HBKSezgvDic0qGKuqVCxZY95u+4wyH/92s="},"public":{"type":"Buffer","data":"AVOTrlecvrfLc6ZpOPHHUc1HzjWYiAEG2pAm7XpwjBQ="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"gKhUnZYlzuZnle2sSH2ssn+FXWz0ZhMrdKDhvYlDG2I="},"public":{"type":"Buffer","data":"5IautJnlml1gLO9elnM06zsf1VcIVapAWUoZpWU9SCs="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"uOVxqKHkkVyqA7N+yU2u10AcFkoc1C79VZ4j8UrQHXU="},"public":{"type":"Buffer","data":"jF1zHhdcoIl3uX9eIHqNBejU9W32ynT5da+brhnzk0s="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"+MDtRJ4XgIZPVeHqEWFceZk5qhQoG6bc5YG+rQG6p0w="},"public":{"type":"Buffer","data":"XNWGE2lRcdCRiPGOwSj2FPkpVRTFtka0ByrFC3E2XB4="}},"signature":{"type":"Buffer","data":"c3OXQ38wbcx4NJIRn+47yr/aAZH+aBOMQisUKWgz/LIqWdB3P7cbNRQhQl2jLWRJaUusR2qThJ0F8LuFjou9jQ=="},"keyId":1},"registrationId":78,"advSecretKey":"sNVv0kKbDHU5F7OMWW9ZS8kVKkGXMkkJRsRCU4gjksU=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"dnK0UhoFTtms9i2I1idB-w","phoneId":"cb2c52a9-a072-4940-bc9b-4945c51457d8","identityId":{"type":"Buffer","data":"84+k7BMD0oS7UATTPOlE2nLsopI="},"registered":true,"backupToken":{"type":"Buffer","data":"LtRmREARIL69DlRF/NuqzUSqIJQ="},"registration":{},"pairingCode":"H9G5DDBY","me":{"id":"263716549848:33@s.whatsapp.net"},"account":{"details":"CP/Q0oYDELurhLQGGAsgACgA","accountSignatureKey":"QfcUWn3lhtN2motRoukLmwaepUnTuZ6tR+KHAZzSrzo=","accountSignature":"NgNrDFC6MDmoY8qsOo3MQhhizgBLnmop8snw5Y2UznVWhn3xEIfq61i1yoCjCTwHY/Ub+F2oV/2pvJZPVswXCw==","deviceSignature":"ucmrRZQtlTKYzlJpFjKOMEDz9XbF1+MLXne0K9ezkNg4S/59roRaNGVbxud88cyZlIGIaUEOA5I0GxooP4hQig=="},"signalIdentities":[{"identifier":{"name":"263716549848:33@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BUH3FFp95YbTdpqLUaLpC5sGnqVJ07merUfihwGc0q86"}}],"platform":"android","lastAccountSyncTimestamp":1719735752,"myAppStateKeyId":"AAAAAEr6"}";                          //Do not change.
 
 
 //
